@@ -9,7 +9,7 @@ const ROLES = {
         id: 'student',
         label: 'Student',
         icon: GraduationCap,
-        url: 'https://student.gcanovaliches.com'
+        url: 'https://gcanovaliches.vercel.app'
     },
     ADMIN: {
         id: 'admin',
@@ -20,19 +20,19 @@ const ROLES = {
         id: 'registrar',
         label: 'Registrar',
         icon: ClipboardList,
-        url: 'https://sqcholar.netlify.app'
+        url: 'https://registrar-gcanovaliches.netlify.app'
     },
     TEACHER: {
         id: 'teacher',
         label: 'Teacher',
         icon: BookOpen,
-        url: 'https://teacher.gcanovaliches.com'
+        url: 'https://teacher-gcanovaliches.netlify.app'
     },
     GUARD: {
         id: 'guard',
         label: 'Guard',
         icon: Shield,
-        url: 'https://guard.gcanovaliches.com'
+        url: 'https://guard-gcanovaliches.netlify.app'
     }
 };
 
